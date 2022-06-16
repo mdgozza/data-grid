@@ -1,0 +1,20 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+table {
+  display: grid;
+  grid-template-columns: minmax(150px, 1fr) minmax(150px, 1fr);
+}
+
+thead,
+tbody,
+tr {
+  display: contents;
+}
+
+th,
+td {
+  justify-self: center;
+}

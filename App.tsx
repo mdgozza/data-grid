@@ -17,10 +17,10 @@ export default function App() {
         </thead>
         <tbody>
           <tr>
-            <td>Marcello</td>
+            <td>Ed</td>
           </tr>
           <tr>
-            <td>Gozza</td>
+            <td>Sheeran</td>
           </tr>
         </tbody>
       </table>
